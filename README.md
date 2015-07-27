@@ -6,16 +6,17 @@ A raspberry pi based smart lock with strong cryptography. A cheap way to lock an
 Other things to include:
 
   - **Technology stack**: ASP .Net vNext on a Raspberry Pi 2 device running Windows 10.
-  - **Status**:  Alpha [CHANGELOG](CHANGELOG.md).
+  - **Status**:  - 
 
-## Dependencies
-
-Describe any dependencies that must be installed for this software to work.
-This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
-If specific versions of other software are required, or known not to work, call that out.
+## Dependencies (so far)
+1. A [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
+2. A 2+ amp USB power pack and micro USB cable to power your Pi
+3. An HDMI cable and monitor so you can watch the status of your Pi while installing Windows 10 IoT Core
+4. A micro SD card (8GB+) to install [Windows 10 IoT Core Preview](https://dev.windows.com/iot) on
+5. A machine running [Windows 10 Preview](http://windowsinsider.com) & [Visual Studio 2015 RC](http://visualstudio.com/)
+6. A physical network with a cable for both your Raspberry Pi 2 and your Windows 10 machine
 
 ----
 
 ## Open source licensing info
-1. [TERMS](TERMS.md)
-2. [LICENSE](LICENSE)
+1. [LICENSE](LICENSE)
