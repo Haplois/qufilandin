@@ -12,7 +12,7 @@ A raspberry pi based smart lock with strong cryptography. A cheap way to lock an
 ## Installing Windows 10 IoT Core
 Head over to the Windows 10 IoT Core site and follow [the instructions there to get it installed on your micro SD card](http://ms-iot.github.io/content/en-US/win10/SetupRPI.htm). After you've put the card in the Pi it will start and reboot a few times before finally showing the [default app screen](http://ms-iot.github.io/content/images/DefaultAppRpi2.png). Be patient, this process will take a little while. Continue through the instructions to get the dev tools for Windows 10 IoT Core installed on your Windows 10 machine.
 
-## Setting up your dev environment
+## Setting up your development environment
 Check [this](https://github.com/DamianEdwards/PiDnx/blob/master/README.md) document.
 
 ----
